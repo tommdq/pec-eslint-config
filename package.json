@@ -1,0 +1,37 @@
+{
+  "name": "@pec/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint + Prettier config for React",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "config",
+    "eslint",
+    "lint",
+    "prettier",
+    "eslintconfig"
+  ],
+  "author": {
+    "name": "Tomas Buzeta"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommdq/pec-eslint-config"
+  },
+  "bugs": {
+    "url": "https://github.com/tommdq/pec-eslint-config/issues"
+  },
+  "homepage": "https://github.com/tommdq/pec-eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "8.32.0",
+    "eslint-config-prettier": "8.6.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "@typescript-eslint/eslint-plugin": "5.49.0",
+    "@typescript-eslint/parser": "5.49.0"
+  }
+}
