@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Eslint + Prettier config for React",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "README.md",
     "index.js"
